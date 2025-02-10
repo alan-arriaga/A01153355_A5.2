@@ -1,0 +1,7 @@
+Sales Calculation Results
+Total Sales Cost: $148.43
+Execution Time: 0.0010 seconds
+
+Errors:
+- Product ID '999' not found in price catalogue.
+- Error processing sale record {'product_id': '101', 'quantity': 'invalid'}: could not convert string to float: 'invalid'

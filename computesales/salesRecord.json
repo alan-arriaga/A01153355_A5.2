@@ -1,0 +1,9 @@
+[
+  { "product_id": "101", "quantity": 2 },
+  { "product_id": "102", "quantity": 5 },
+  { "product_id": "103", "quantity": 1 },
+  { "product_id": "999", "quantity": 3 },
+  { "product_id": "104", "quantity": 4 },
+  { "product_id": "105", "quantity": 0.5 },
+  { "product_id": "101", "quantity": "invalid" }
+]
